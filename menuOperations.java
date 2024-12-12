@@ -122,3 +122,67 @@ public class menuOperations {
         }
     }
 }
+
+
+
+/*
+Out-put
+
+javac menuOperations.java
+java menuOperations
+
+
+Select an option:
+1. Switch to class A
+2. Calculate factorial
+3. Check if a number is even or odd
+4. Check Armstrong number
+5. Exit
+Enter your choice: 1
+Enter an option for switching to class A: 
+2
+Option 2 selected!
+
+Select an option:
+1. Switch to class A
+2. Calculate factorial
+3. Check if a number is even or odd
+4. Check Armstrong number
+5. Exit
+Enter your choice: 2
+Enter a number to calculate its factorial: 
+80
+80 is not a Factorial Num
+
+Select an option:
+1. Switch to class A
+2. Calculate factorial
+3. Check if a number is even or odd
+4. Check Armstrong number
+5. Exit
+Enter your choice: 3
+Enter a number to check if it is even or odd: 
+80
+80 is even
+
+Select an option:
+1. Switch to class A
+2. Calculate factorial
+3. Check if a number is even or odd
+4. Check Armstrong number
+5. Exit
+Enter your choice: 4
+Enter a number to check if it is an Armstrong number: 
+80
+80 is not an Armstrong number
+
+Select an option:
+1. Switch to class A
+2. Calculate factorial
+3. Check if a number is even or odd
+4. Check Armstrong number
+5. Exit
+Enter your choice: 5
+
+Exiting the program.
+ */
